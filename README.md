@@ -1,6 +1,6 @@
 # Challenge ONE - Encriptador de texto.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Enero-blue)
+![Badge Release](https://img.shields.io/badge/Release%20Date:-Agosto-blue)
 ![Badge Java](https://img.shields.io/badge/HTML5-blue)
 ![Badge Java](https://img.shields.io/badge/CSS3-blue)
 ![Badge Java](https://img.shields.io/badge/JavaScript-blue)
